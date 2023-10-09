@@ -1,0 +1,13 @@
+{
+  "name": "aulas",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "fundamentos_node.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
